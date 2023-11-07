@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\urealproject\\ur_project\\source\\ur_project\\ur_project.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\urealproject\\ur_project\\intermediate\\build\\win64\\x64\\ur_projecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal\\urealproject\\ur_project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ur_project\\definitions.ur_project.h",
+            "d:\\unreal\\urealproject\\ur_project\\source\\ur_project\\ur_project.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
