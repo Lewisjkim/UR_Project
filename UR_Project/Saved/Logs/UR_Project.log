@@ -1166,3 +1166,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.07-16.02.42:851][130]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 11.708ms.
 [2023.11.07-16.02.42:851][130]LogEditorBuildUtils: Build time 0:06
 [2023.11.07-16.02.42:980][131]LogAutomationController: Ignoring very large delta of 6.62 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.07-16.04.22:891][524]LogDerivedDataCache: C:/Users/Lewis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.086 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 11910 files in 13826 folders with total size 1134 MiB.
+[2023.11.07-16.12.21:292][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.11.07-16.12.21:293][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="D:/unreal/UrealProject/UR_Project/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.11.07-16.12.21:297][958]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.004442 seconds
+[2023.11.07-16.12.21:300][958]LogSavePackage: Moving output files for package: /Temp/Autosaves/Temp/Untitled_1_Auto1
+[2023.11.07-16.12.21:300][958]LogSavePackage: Moving 'D:/unreal/UrealProject/UR_Project/Saved/Untitled_1_Auto1A090C18F438199CC875A6EB5EEFB7F20.tmp' to 'D:/unreal/UrealProject/UR_Project/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2023.11.07-16.12.21:300][958]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/unreal/UrealProject/UR_Project/Saved/Autosaves/Temp/Untitled_1_Auto1.umap is in the /Temp path, will not scan.
+[2023.11.07-16.12.21:300][958]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Temp/Untitled_1_Auto1 is in the /Temp path, will not scan.
+[2023.11.07-16.12.21:300][958]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Temp/Untitled_1_Auto1 is in the /Temp path, will not scan.
+[2023.11.07-16.12.21:301][958]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.013
+[2023.11.07-16.12.21:301][958]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.013
